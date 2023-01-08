@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React native**
 
-- 👨‍💻 All of my projects are available at [https://andri-io.github.io/prfolio2/](https://andri-io.github.io/prfolio2/)
+- 👨‍💻 All of my projects are available at
 
 - 💬 Ask me about **web**
 
