@@ -5,23 +5,20 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=rif006-io&label=Profile%20views&color=0e75b6&style=flat" alt="rif006" /> </p>
 
 
-- 🔭 I’m currently working on **Landing page**
+- 🔭 I’m currently working on 
 
-- 🌱 I’m currently learning **React native**
+- 🌱 I’m currently learning 
+- 👨‍💻 All of my projects are available at 
+- 💬 Ask me about 
 
-- 👨‍💻 All of my projects are available at [https://andri-io.github.io/prfolio2/](https://andri-io.github.io/prfolio2/)
-
-- 💬 Ask me about **web**
-
-- 📫 How to reach me **inzaghi.violleta@gmail.com**
-
+- 📫 How to reach me 
 
 
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/andri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="andri" height="30" width="40" /></a>
+<a href="https://fb.com/arif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="andri" height="30" width="40" /></a>
 <a href="https://instagram.com/andri.jva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="andri.jva" height="30" width="40" /></a>
 </p><br><br>
 
